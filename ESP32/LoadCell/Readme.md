@@ -1,4 +1,4 @@
-Untuk melakukan kalibrasi load cell dalam kode yang Anda berikan, Anda dapat mengikuti langkah-langkah berikut:
+Untuk melakukan kalibrasi load cell dalam kode, Anda dapat mengikuti langkah-langkah berikut:
 
 1. Tentukan berat yang diketahui. Anda memerlukan benda dengan berat yang diketahui (misalnya, 100 gram) untuk melakukan kalibrasi. Pastikan berat ini benar-benar diketahui dan akurat.
 
